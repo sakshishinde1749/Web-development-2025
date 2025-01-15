@@ -1,0 +1,20 @@
+* Make repo on github
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/sakshishinde1749/Github_check.git
+git push -u origin main
+
+git status
+git log
+
+* To remove files from staging area: git rm --cached -r .
+
+* To make new branch: git branch branch_name
+* To see on which branch we are working: git branch
+* To change the branch: git checkout branch_name
+* To merge, go to main branch then: git merge branch_name
+
+
