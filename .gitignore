@@ -15,6 +15,7 @@ backend/node_js/Npm/npm_use/node_modules/
 backend/node_js/Npm/qr_code_generator/node_modules/
 database/postgreSQL/postgres_read/node_modules/
 database/postgreSQL/world_capital_quiz/node_modules/
+database/postgreSQL/travel_tracker/node_modules/
 
 
 
