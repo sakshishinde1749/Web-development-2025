@@ -18,6 +18,7 @@ database/postgreSQL/world_capital_quiz/node_modules/
 database/postgreSQL/travel_tracker/node_modules/
 database/postgreSQL/family_travel_tracker/node_modules/
 database/postgreSQL/permalist_project/node_modules/
+node_modules
 
 
 
@@ -27,3 +28,5 @@ database/postgreSQL/permalist_project/node_modules/
 
 
 
+
+.DS_Store
