@@ -20,4 +20,4 @@ database/postgreSQL/family_travel_tracker/node_modules/
 database/postgreSQL/permalist_project/node_modules/
 node_modules
 .DS_Store
-.DS_Store
+.env
